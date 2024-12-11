@@ -7,4 +7,7 @@ subitems:
     url: /resources
   - title: About
     url: /about
+  - title: Events
+    url: /events
+
 

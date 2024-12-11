@@ -14,3 +14,5 @@ columns:
         url: /contact
       - url_text: Contribute
         url: "pages/contribute"
+      - url_text: Events
+        url: "/events"
